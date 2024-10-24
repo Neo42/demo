@@ -47,6 +47,7 @@ layout: section
 ---
 
 # Authentication
+## Same level as InfluxDB
 
 
 
