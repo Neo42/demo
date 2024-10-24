@@ -92,6 +92,7 @@ layout: section
 * ## Flux Code
 * ## Data Preview
 * ## Charts
+* ## Accessibility
 
 <!-- 
 * On the side, we have all 5 nodes that we can drag and drop
@@ -132,6 +133,12 @@ layout: section
   * Data summary
   * Display name
   * Select which fields you want to display
+
+* Accessibility
+  * Equally accessible to the visually impaired
+  * Keyboard navigation
+  * Screen reader support
+  * Inclusive & Equal access to information
 -->
 
 ---
