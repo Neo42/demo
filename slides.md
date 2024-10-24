@@ -36,7 +36,6 @@ layout: section
 * Useful: Tried our best to fulfill as many requirements as possible with limited time and resources, and we'll keep improving it
 * Sensible: So intuitive and easy to use that you don't have to think about it
 * Cool, Fun & beautiful: Do it with style and make it fun to us
-* Reliable: With limited time outside of development, we tested all the critical paths and made sure it's reliable
 
 We demo all the good stuff to you. Hope you like it! Let's jump in!
 -->
