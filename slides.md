@@ -92,7 +92,7 @@ layout: section
 * ## Flux Code
 * ## Data Preview
 * ## Charts
-* ## Accessibility
+* ## Accessibility for Visually Impaired
 
 <!-- 
 * On the side, we have all 5 nodes that we can drag and drop
