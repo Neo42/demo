@@ -18,26 +18,19 @@ overviewSnapshots: true
   </span>
 </div>
 
-<!-- Show you some thing useful, cool, fun, and beautiful. -->
+<!--
+Thank you respectable representatives from ATSTS, Amali and the teaching team for having us. 
+Really previledged and fortunate to be here to present you our solution for the influx ui project. Let's jump right in.
+-->
 
 ---
 layout: section
 ---
 
-# Our Goals
-
-* ## Useful
-
-* ## Sensible
-
-* ## Cool, Fun & Beautiful
+# Problem We Are Solving
 
 <!--
-* Useful: Tried our best to fulfill as many requirements as possible with limited time and resources, and we'll keep improving it
-* Sensible: So intuitive and easy to use that you don't have to think about it
-* Cool, Fun & beautiful: Do it with style and make it fun to us
-
-We demo all the good stuff to you. Hope you like it! Let's jump in!
+The problem we are trying to solve is that many data analysts or business analysts have to use InfluxDB for analysing time-series data in their daily work but don’t have programming skills or are unfamiliar with the Flux language. Those analysts are the typical users who will use our software. But other than that, because we have implemented screen reader voice-over accessibility on our user interface, our software is also accessible to those who are visually impaired.
 -->
 
 ---
@@ -45,15 +38,12 @@ transition: fade-out
 layout: section
 ---
 
-# Authentication
-## Same level as InfluxDB
-
-
+# Our Users and Their Goals
 
 <!--  
-* sends your credentials in there
-* API talks directly to InfluxDB
-* Verify if you are really an valid user
+Goals:
+* Querying data without writing any code
+* Visualizing data in a way that is easy to understand
 -->
 
 ---
